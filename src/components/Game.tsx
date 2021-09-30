@@ -15,6 +15,7 @@ const Game: React.FC = () => {
           <iframe
             title="wikipedia-content"
             src="https://en.wikipedia.org/wiki/Software_engineering"
+            sandbox="true"
             style={{ height: "100%", width: "100%" }}
             frameBorder="0"
           />
