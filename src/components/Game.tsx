@@ -14,7 +14,7 @@ const Game: React.FC = () => {
         <Grid item xs={11} style={{ background: "green" }}>
           <iframe
             title="wikipedia-content"
-            src="https://en.wikipedia.org/wiki/Killing_of_Muhammad_al-Durrah"
+            src="https://en.wikipedia.org/wiki/Software_engineering"
             style={{ height: "100%", width: "100%" }}
             frameBorder="0"
           />
