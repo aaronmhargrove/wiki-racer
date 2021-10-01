@@ -1,0 +1,20 @@
+[HOST]
+- homepage
+- clicks host button
+- takes to a lobby page where you can change rules and see a list of players. could also just be the same page as the homepage but different content. leave button to close the game session.
+Settings such as 'allow back button', 'enable history', 'score mode or cumalitive time mode', number of rounds.
+be able to kick players.
+have custom start and end points otherwise do random.
+- hit start game button.
+
+Game screen loads.
+maybe have a 30 second pre-round that allows you to look at the final page to get an idea of what route to possibly take. (can be enabled/disabled in settings)
+countdown gives 5. 4. 3. 2. 1. and the game starts.
+User clicks links on the wiki page until they reach the end point.
+Once a user reaches the end point, the round is over and they get a point. (if timed mode, maybe have a set time that the users have to complete it by and allow users to keep going and just save the quickest time.)
+show time and maybe the winners path that round. display for like 5-10 seconds
+then go into next round.
+after all rounds complete, show the scoreboard and have a link to each persons history. Play again button or quit.
+
+[PLAYER]
+basically the same as host but user joins using a code given by the host.
